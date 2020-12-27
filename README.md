@@ -6,7 +6,7 @@ I'm a 42 Madrid student, here are my stats 👇
 
 ### My Work
 * 🤓 I'm currently learning C++ reimplementing containers of STL.
-* 👨‍⚕️ I'm curretly working as health worker in the fight against COVID 🦠
+* 👨‍⚕️ I'm currently working as health worker in the fight against COVID 🦠
 * 🤩 I'm interested in OOP, IA and machine learning, trying to merge my MPH and my health knowledge with my developer knowledge
 * ⚡ I play piano 🎹 and guitar 🎸
 
