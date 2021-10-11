@@ -5,7 +5,7 @@ I'm a 42 Madrid student, here are my stats 👇
 [![dalba-de's 42 stats](https://badge42.herokuapp.com/api/stats/dalba-de)](https://github.com/JaeSeoKim/badge42)
 
 ### My Work
-* 🤓 I'm currently learning C++ reimplementing containers of STL.
+* 🤓 I'm currently full stack development, througt js, ts, node, angular and nestjs
 * 👨‍⚕️ I'm currently working as health worker in the fight against COVID 🦠
 * 🤩 I'm interested in OOP, IA and machine learning, trying to merge my MPH and my health knowledge with my developer knowledge
 * ⚡ I play piano 🎹 and guitar 🎸
