@@ -2,7 +2,7 @@
 
 I'm a 42 Madrid student, here are my stats 👇
 
-[![dalba-de's 42 stats](https://badge42.herokuapp.com/api/stats/dalba-de)](https://github.com/JaeSeoKim/badge42)
+[![dalba-de's 42 stats](https://badge42.vercel.app/api/v2/cl1q8ulvz004409mj9acc8ede/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 ### My Work
 * 🤓 I'm currently full stack development, througt js, ts, node, angular and nestjs
